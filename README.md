@@ -34,7 +34,6 @@ CodeAlpha_HangmanGame/
 ├── README.md
 ├── main.py
 ├── requirements.txt
-└── screenshots/
 ```
 
 ## How to Run
