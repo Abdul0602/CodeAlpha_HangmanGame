@@ -32,8 +32,7 @@ Build a console game where the player guesses a randomly selected word one lette
 ```text
 CodeAlpha_HangmanGame/
 ├── README.md
-├── main.py
-├── requirements.txt
+├── HangmanGame.py
 ```
 
 ## How to Run
